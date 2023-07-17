@@ -1,2 +1,7 @@
 # Striver-Sheet-
-It contain solution in C++ of Striver sheet
+It contain  solutions in C++ of Striver sheet.
+You need to change branch ;-
+Week1
+Week2
+
+
